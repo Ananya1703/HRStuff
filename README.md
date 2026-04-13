@@ -1,4 +1,4 @@
-# HRStuff
+# HR Stuff
 This is a space where I’m documenting my journey as an HR professional, one day at a time.
 
 Not everything in HR comes from books or policies. A lot of it comes from conversations, situations, mistakes, and small everyday learnings. This repository is my way of keeping track of all of that.
