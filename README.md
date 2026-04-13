@@ -5,22 +5,27 @@ Not everything in HR comes from books or policies. A lot of it comes from conver
 
 **What you’ll find here**
 
-*Daily experiences*
+*Daily experiences:*
+
 The kind of situations you don’t really get trained for but learn on the job.
 
-*Lessons along the way*
+*Lessons along the way:*
+
 Some days things work, some days they don’t. Both teach you something.
 
-*Working with tech teams*
+*Working with tech teams:*
+
 Understanding what people in fast-paced tech environments actually need, beyond just roles and responsibilities.
 
-*Culture, in reality*
+*Culture, in reality:*
+
 Not just what’s written, but what’s actually practiced.
 
-*Ethics and integrity*
+*Ethics and integrity:*
+
 Trying to do the right thing, even when it’s not the easiest option.
 
-**Why I’m doing this**
+**Why I’m doing this:**
 
 Mostly to reflect
 Partly to get better at what I do
